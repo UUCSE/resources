@@ -5,4 +5,7 @@
 - [JavaEE by Dimik Computing](http://dimikcomputing.com/course/javaee-online-course)
 
 ## Graphics Design
-- [Web Field Manual](http://webfieldmanual.com/)
+- [Web Field Manual](http://webfieldmanual.com)
+
+## Machine Learning
+- [Machine Learning by Manash Mandal](https://ml.manash.me)
