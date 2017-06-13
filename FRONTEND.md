@@ -2,7 +2,11 @@
 
 ## Learn JavaScript
 - [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [ECMA Script 6](http://es6-features.org)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [Super Hero JS](http://superherojs.com)
+- [JavaScript Algorithms & DataStructure](https://mgechev.github.io/javascript-algorithms)
+- [JS Tips](https://github.com/loverajoel/jstips)
 
 ## JavaScript Frameworks
 - [AngularJS](https://angularjs.org)
@@ -67,6 +71,7 @@
 #### Angular
 - [ng2-dnd](https://github.com/akserg/ng2-dnd) - Drag & Drop
 - [ng2-retina](https://github.com/matthiaskomarek/ng2-retina) - Retina Graphics Management
+- [ngx-charts](https://swimlane.github.io/ngx-charts) - D3 Visualization Framework
 - [Angular Resizable](https://github.com/mgechev/ngresizable) - Resizable Component
 
 ## Animation/Effect Libraries
@@ -98,15 +103,18 @@
 - [Font Awesome](http://fontawesome.io)
 - [Flat Icon](http://www.flaticon.com)
 - [Ico Font](http://icofont.com)
+- [Mono Social Icons Font](http://drinchev.github.io/monosocialiconsfont)
 
 ## Tools
 - [Gulp](http://gulpjs.com) - Worlflow Automation
 - [Grunt](https://gruntjs.com) - Worlflow Automation
 - [Webpack](https://webpack.github.io) - Module Bundler
 - [RollupJS](http://rollupjs.org) - Module Bundler
+- [Angular CLI](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [JSON Server](https://github.com/typicode/json-server) - Mocking Backend with JSON
 
-##Web Apps
+## Web Apps
+- [TinyPNG](https://tinypng.com) - Image Optimizing Tool
 - [Juntoo](https://juntoo.co/fd.html) - Feedback Manager
 - [Crowdin](https://crowdin.com) - Localization Management Platform
 - [JSPerf](https://jsperf.com) - JavaScript Performance Playground
