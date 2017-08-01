@@ -120,3 +120,5 @@
 - [JSPerf](https://jsperf.com) - JavaScript Performance Playground
 - [Mockaroo](http://mockaroo.com) - Realistic Data Generator
 - [Tridiv](http://tridiv.com) - CSS 3D Editor
+- [Real Favicon Generator](http://realfavicongenerator.net/) - Favicon Generator
+- [App Manifest Generator](https://app-manifest.firebaseapp.com/) - App Manifest Generator for PWA
