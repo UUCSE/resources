@@ -8,6 +8,10 @@
 - [JavaScript Algorithms & DataStructure](https://mgechev.github.io/javascript-algorithms)
 - [JS Tips](https://github.com/loverajoel/jstips)
 
+## Learn CSS
+- [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox
+- [CSSCursor](http://csscursor.info/) - List of Available Cursor
+
 ## JavaScript Frameworks
 - [AngularJS](https://angularjs.org)
 - [Angular](https://angular.io)
@@ -88,6 +92,7 @@
 - [DynamicsJS](http://dynamicsjs.com) - Physics Based Animations
 - [Turn.js](http://www.turnjs.com) - Flip Book Effect
 - [DynCSS](http://www.vittoriozaccaria.net/dyn-css) - Dynamic CSS Rules
+- [Typed.js](https://github.com/mattboldt/typed.js/) - A JavaScript Typing Animation Library
 
 #### CSS
 - [animation.css](https://daneden.github.io/animate.css) - Collection of CSS Animations
